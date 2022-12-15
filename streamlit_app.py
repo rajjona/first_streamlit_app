@@ -1,3 +1,6 @@
 import streamlit
-streamlit.title('This is Test')                                 
+streamlit.title('Today Menu')
+streamlit.Header('Breakfast Menu')
+Streamlit.text('Dosa,Chutney & Tea')
+Streamlit.text('Grapes,Strawberry & Guva')
                
